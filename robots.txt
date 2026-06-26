@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elvismtlee.github.io/ssjh-alumni-next/sitemap.xml
